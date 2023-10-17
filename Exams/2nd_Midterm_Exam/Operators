@@ -1,0 +1,69 @@
+//Operator =
+
+type &operator=(const type &other){//no modify
+    if(this==&other){
+        return *this;
+    }
+    delete [] dynamically_allocated_variables;
+    copy(other);
+    return *this;
+}
+
+//Operator +=
+
+type1 &operator+=(type2 &other){//no modify
+    ...
+    return *this;
+}
+
+//Operator -=
+
+type1 &operator-=(type2 &other){//no modify
+    ...
+    return *this;
+}
+
+//Operator <<
+
+friend ostream &operator<<(ostream &out, const type &other){//no modify
+    out<<...
+    return out;
+}
+
+//Operator >>
+
+friend istream &operator<<(istream &in, type &other){//not const because we're modifying it
+    in>>...
+    return in;
+}
+
+//Operator []
+
+type &operator [] (int index){
+    return variable[index];
+}
+
+//Operator ==
+
+bool operator ==(const type &other){
+    return ...;
+}
+
+//Operator +
+
+type operator+(const type &other){
+    return NewObj;
+}
+
+//prefix ++
+type &operator++(){
+    ++type2;
+    return *this;
+}
+
+//postfix ++
+type operator++(int){
+    type copy(*this);
+    ++type2;
+    return copy;
+}

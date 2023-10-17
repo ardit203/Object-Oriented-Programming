@@ -1,0 +1,36 @@
+1. Structures in C
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1645782694176
+
+2. Structures in C++
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1646387357308
+
+3. Classes
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/168f7abb857ccceb8a8326ffe8a88adeb0d80512-1615463269594?meetingId=168f7abb857ccceb8a8326ffe8a88adeb0d80512-1615463269594
+
+4. Composition
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1647597166280
+
+5. Dynamic Memory Allocation
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1648201925310
+
+6. Midterm Tasks
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1648802934609
+
+7. Operators
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1650009275788
+
+8. Inheritance
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/45a621473589c613edb514cb202b0502cb5dc610-1618482424783?meetingId=45a621473589c613edb514cb202b0502cb5dc610-1618482424783
+
+9. Polymorphism
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1651222563844
+
+10. Multiple Inheritance
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/484d222d9665ea5c2e792677afae15fbc655cf1d-1683730494124
+
+11. Static Members & Exceptions
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1652432222651
+
+12. 2nd Midterm & Exams
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1652947079267
+https://bbb-lb.finki.ukim.mk/playback/presentation/2.3/6913220f4eb6d6067162042ff215303de1076a8c-1653037005181
